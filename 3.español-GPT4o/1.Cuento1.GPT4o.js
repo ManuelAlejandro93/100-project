@@ -1,4 +1,4 @@
-const cuento2 = `
+const cuento1 = `
 UN DÓLAR Y OCHENTA Y SIETE CENTAVOS. Eso era todo. Y sesenta centavos de eso eran en monedas de un centavo. Monedas ahorradas de una y dos a la vez al presionar al tendero, al vendedor de verduras y al carnicero, hasta que la mejilla de uno ardía con la silenciosa imputación de parsimonia que implicaba tal trato cercano. Della lo contó tres veces. Un dólar y ochenta y siete centavos. Y al día siguiente sería Navidad.
 
 No quedaba nada por hacer más que dejarse caer en el pequeño y desgastado sofá y llorar. Así que Della lo hizo. Lo que provoca la reflexión moral de que la vida se compone de sollozos, suspiros y sonrisas, predominando los suspiros.
