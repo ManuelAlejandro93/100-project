@@ -1,9 +1,9 @@
-//! No corregido.
+//! Sí corregido.
 const TheGiftOfTheMagi = `ONE DOLLAR AND EIGHTY-SEVEN CENTS. That was all. And sixty cents of it was in pennies. Pennies saved one and two at a time by bulldozing the grocer the vegetable man and the butcher until one's cheek burned with the silent imputation of parsimony that such close dealing implied. Three times Della counted it. One dollar and eighty-seven cents. And the next day would be Christmas.
 Nothing was left to do but flop down on the shabby little couch and howl. So Della did it. Which instigates the moral reflection that life is made up of sobs, sniffles, and smiles, with sniffles predominating.
 While the mistress of the home gradually subsides from the
 first stage to the second, take a look at the home. A furnished flat
-at $8 per week. It did not exactly beggar description, but it cer­tainly had that word on the look-out for the mendicancy squad.
+at $8 per week. It did not exactly beggar description, but it cer­tainly had that word on the lookout for the mendicancy squad.
 In the vestibule below was a letter-box into which no letter
 would go, and an electric button from which no mortal finger
 could coax a ring. Also appertaining thereunto was a card bearing
