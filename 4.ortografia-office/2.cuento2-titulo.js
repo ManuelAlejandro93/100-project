@@ -1,4 +1,7 @@
 const cuento2 = `
+
+Un Cosmopolita en un Café
+
 A la medianoche, el café estaba lleno. Por alguna casualidad, la pequeña mesa en la que me senté había escapado a la vista de los recién llegados, y dos sillas vacías en ella extendían sus brazos con hospitalidad venal al influjo de clientes.
 
 Y entonces un cosmopolita se sentó en una de ellas, y me alegré, porque sostenía la teoría de que desde Adán no ha existido un verdadero ciudadano del mundo. Oímos hablar de ellos, y vemos etiquetas extranjeras en mucho equipaje, pero encontramos viajeros en lugar de cosmopolitas.
