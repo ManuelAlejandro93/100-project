@@ -1,65 +1,93 @@
 const cuento2 = `
-A la medianoche, el café estaba lleno. Por alguna casualidad, la pequeña mesa en la que me senté había escapado a la vista de los recién llegados, y dos sillas vacías en ella extendían sus brazos con hospitalidad venal al influjo de clientes.
+UN DÓLAR Y OCHENTA Y SIETE CENTAVOS. Eso era todo. Y sesenta centavos de eso eran en monedas de un centavo. Monedas ahorradas de una en una y de dos en dos, regateando con el tendero, el verdulero y el carnicero hasta que la mejilla de uno ardía con la silenciosa imputación de tacañería que tal trato cercano implicaba. Della lo contó tres veces. Un dólar y ochenta y siete centavos. Y al día siguiente sería Navidad.
 
-Y entonces un cosmopolita se sentó en una de ellas, y me alegré, porque sostenía la teoría de que desde Adán no ha existido un verdadero ciudadano del mundo. Oímos hablar de ellos, y vemos etiquetas extranjeras en mucho equipaje, pero encontramos viajeros en lugar de cosmopolitas.
+No quedaba nada por hacer más que dejarse caer en el pequeño y desgastado sofá y llorar. Así que Della lo hizo. Lo cual insta a la reflexión moral de que la vida se compone de sollozos, suspiros y sonrisas, predominando los suspiros.
 
-Invoco su consideración de la escena: las mesas con tapas de mármol, la fila de asientos tapizados en cuero en la pared, la alegre compañía, las damas vestidas en trajes de semigala, hablando en un exquisito coro visible de gusto, economía, opulencia o arte, los garçons diligentes y amantes de la generosidad, la música sabiamente atendiendo a todos con sus incursiones en los compositores; la mezcla de charla y risas, y, si lo desea, el Würzburger en los altos conos de vidrio que se inclinan hacia sus labios como una cereza madura se balancea en su rama hacia el pico de un arrendajo ladrón. Un escultor de Mauch Chunk me dijo que la escena era verdaderamente parisina.
+Mientras la dueña de la casa gradualmente pasa de la primera etapa a la segunda, echemos un vistazo a la casa. Un apartamento amueblado a $8 por semana. No exactamente mendigaba descripción, pero ciertamente tenía esa palabra en busca del escuadrón de la mendicidad.
 
-Mi cosmopolita se llamaba E. Rushmore Coglan, y se le escuchará el próximo verano en Coney Island. Va a establecer una nueva 'atracción' allí, me informó, ofreciendo diversión real.
+En el vestíbulo de abajo había un buzón en el que no cabría ninguna carta, y un botón eléctrico del que ningún dedo mortal podría sacar un timbre. También pertenecía allí una tarjeta con el nombre 'Sr. James Dillingham Young.'
 
-Y luego su conversación resonó a lo largo de paralelos de latitud y longitud. Tomó el gran mundo redondo en su mano, por así decirlo, familiarmente, con desdén, y no parecía más grande que la semilla de una cereza Maraschino en un pomelo de menú del día. Habló irrespetuosamente del ecuador, saltó de continente en continente, se burló de las zonas y limpió los mares altos con su servilleta. Con un gesto de su mano, hablaba de cierto bazar en Hyderabad. ¡Fiu! Te tendría en esquís en Laponia. ¡Zas! Ahora montabas las olas con los Kanakas en Kealaikahiki. ¡Presto! Te arrastraba a través de un pantano de robles post en Arkansas, te dejaba secar por un momento en las llanuras de álcali de su rancho en Idaho y luego te lanzaba a la sociedad de archiduques vieneses. Anon te contaría sobre un resfriado que adquirió en una brisa del lago de Chicago y cómo el viejo Escamila lo curó en Buenos Aires con una infusión caliente de la hierba chuchula. Habrías dirigido la carta a 'E. Rushmore Coglan, Esq., la Tierra, Sistema Solar, el Universo', y la habrías enviado por correo, sintiéndote seguro de que le sería entregada.
+El 'Dillingham' había sido lanzado al viento durante un período anterior de prosperidad cuando su poseedor ganaba $30 por semana. Ahora, cuando el ingreso se redujo a $20, las letras de 'Dillingham' parecían borrosas, como si estuvieran pensando seriamente en contraerse a un modesto y discreto D. Pero cada vez que el Sr. James Dillingham Young llegaba a casa y alcanzaba su apartamento arriba, era llamado 'Jim' y abrazado con entusiasmo por la Sra. James Dillingham Young, ya presentada como Della. Lo cual está muy bien.
 
-Estaba seguro de que finalmente había encontrado al único verdadero cosmopolita desde Adán, y escuché su discurso mundial con temor de descubrir en él la nota local del mero trotamundos. Pero sus opiniones nunca vacilaron ni decayeron; era tan imparcial con las ciudades, países y continentes como los vientos o la gravedad.
+Della terminó de llorar y atendió sus mejillas con el paño de polvo. Se paró junto a la ventana y miró con indiferencia a un gato gris caminando por una cerca gris en un patio trasero gris. Mañana sería Navidad, y solo tenía $1.87 para comprarle un regalo a Jim. Había estado ahorrando cada centavo que podía durante meses, con este resultado. Veinte dólares a la semana no llegan muy lejos. Los gastos habían sido mayores de lo que había calculado. Siempre lo son. Solo $1.87 para comprar un regalo para Jim. Su Jim. Muchas horas felices había pasado planeando algo bonito para él. Algo fino y raro y valioso, algo un poco digno del honor de ser poseído por Jim.
 
-Y mientras E. Rushmore Coglan parloteaba sobre este pequeño planeta, pensé con el júbilo de un gran casi-cosmopolita que escribió para todo el mundo y se dedicó a Bombay. En un poema tiene que decir que hay orgullo y rivalidad entre las ciudades de la tierra, y que 'los hombres que se crían de ellas, trafican arriba y abajo, pero se aferran al dobladillo de sus ciudades como un niño al vestido de su madre'. Y siempre que caminan 'por calles rugientes desconocidas' recuerdan su ciudad natal 'más fiel, tonta, cariñosa; haciendo de su mero nombre respirado su vínculo sobre su vínculo'. Y mi júbilo se despertó porque había atrapado al Sr. Kipling durmiendo. Aquí había encontrado a un hombre no hecho de polvo; uno que no tenía alardes estrechos de lugar de nacimiento o país, uno que, si alardeaba de algo, alardearía de su globo entero contra los marcianos y los habitantes de la Luna.
+Había un espejo entre las ventanas de la habitación. Quizás hayas visto un espejo en un apartamento de $8. Una persona muy delgada y muy ágil puede, al observar su reflejo en una rápida secuencia de tiras longitudinales, obtener una concepción bastante precisa de su apariencia. Della, siendo delgada, había dominado el arte.
 
-La expresión sobre estos temas fue precipitada de E. Rushmore Coglan por la necesidad del tercer rincón de nuestra mesa. Mientras Coglan me describía la topografía a lo largo del Ferrocarril Siberiano, la orquesta se deslizó en un popurrí. El aire concluyente fue 'Dixie', y mientras las notas estimulantes salían a borbotones, casi fueron dominadas por un gran aplauso de casi todas las mesas.
+De repente, se apartó de la ventana y se paró frente al espejo. Sus ojos brillaban intensamente, pero su rostro había perdido su color en veinte segundos. Rápidamente se soltó el cabello y lo dejó caer a su longitud completa.
 
-Vale la pena un párrafo decir que esta notable escena se puede presenciar cada noche en numerosos cafés de la Ciudad de Nueva York. Se han consumido toneladas de cerveza sobre teorías para explicarlo. Algunos han conjeturado apresuradamente que todos los sureños en la ciudad se dirigen a los cafés al anochecer. Este aplauso del aire 'rebelde' en una ciudad del Norte me desconcierta un poco, pero no es irresoluble. La guerra con España, muchos años de generosos cultivos de menta y sandía, algunos ganadores de apuestas largas en la pista de carreras de Nueva Orleans, y los brillantes banquetes dados por los ciudadanos de Indiana y Kansas que componen la Sociedad de Carolina del Norte, han hecho del Sur una especie de 'moda' en Manhattan. Tu manicura susurrará suavemente, y tu dedo índice izquierdo le recuerda tanto a un caballero en Richmond, VA. Oh, ciertamente; pero muchas damas tienen que trabajar ahora - la guerra, ya sabes.
+Ahora, había dos posesiones de los James Dillingham Young en las que ambos se enorgullecían enormemente. Una era el reloj de oro de Jim, que había sido de su padre y de su abuelo. La otra era el cabello de Della. Si la Reina de Saba hubiera vivido en el apartamento al otro lado del conducto de aire, Della habría dejado su cabello colgando por la ventana algún día para secarse solo para depreciar las joyas y regalos de Su Majestad. Si el Rey Salomón hubiera sido el conserje, con todos sus tesoros apilados en el sótano, Jim habría sacado su reloj cada vez que pasara, solo para verlo tirar de su barba por envidia.
 
-Cuando se tocaba 'Dixie', un joven de cabello oscuro saltó de algún lugar con un grito de guerrilla de Mosby y agitó frenéticamente su sombrero de ala blanda. Luego se perdió entre el humo, se dejó caer en la silla vacía de nuestra mesa y sacó cigarrillos.
+Así que ahora el hermoso cabello de Della caía a su alrededor, ondulando y brillando como una cascada de aguas marrones. Llegaba por debajo de su rodilla y casi se convertía en una prenda para ella. Y luego lo recogió de nuevo nerviosa y rápidamente. Una vez vaciló por un minuto y se quedó quieta mientras una o dos lágrimas salpicaban la alfombra roja desgastada.
 
-La noche era el período en que la reserva se descongelaba. Uno de nosotros mencionó tres Würzburgers al camarero; el joven de cabello oscuro reconoció su inclusión en el pedido con una sonrisa y un asentimiento. Me apresuré a hacerle una pregunta porque quería probar una teoría que tenía.
+Se puso su vieja chaqueta marrón; se puso su viejo sombrero marrón. Con un giro de faldas y con el brillante destello aún en sus ojos, salió revoloteando por la puerta y bajó las escaleras hacia la calle.
 
-'¿Te importaría decirme,' comencé, 'si eres de - '
+Donde se detuvo, el letrero decía: 'Mme. Sofronie. Artículos de Cabello de Todo Tipo.' Un piso arriba corrió Della, y se recompuso, jadeando. Madame, grande, demasiado blanca, fría, apenas parecía la 'Sofronie.'
 
-El puño de E. Rushmore Coglan golpeó la mesa y me quedé en silencio.
+'¿Comprará mi cabello?' preguntó Della.
 
-'Discúlpame,' dijo él, 'pero esa es una pregunta que nunca me gusta escuchar. ¿Qué importa de dónde es un hombre? ¿Es justo juzgar a un hombre por su dirección postal? He visto a kentuckianos que odiaban el whisky, a virginianos que no descendían de Pocahontas, a indianos que no habían escrito una novela, a mexicanos que no usaban pantalones de terciopelo con dólares de plata cosidos a lo largo de las costuras, a ingleses graciosos, a yanquis derrochadores, a sureños de sangre fría, a occidentales de mente estrecha y a neoyorquinos que estaban demasiado ocupados para detenerse una hora en la calle para ver a un empleado de tienda de comestibles con un solo brazo envolver arándanos en bolsas de papel. Deja que un hombre sea un hombre y no lo etiquetes con la etiqueta de ninguna sección.'
+'Compro cabello,' dijo Madame. 'Quítate el sombrero y déjame ver cómo se ve.'
 
-'Perdóname,' dije, 'pero mi curiosidad no era del todo ociosa. Conozco el Sur, y cuando la banda toca "Dixie" me gusta observar. He formado la creencia de que el hombre que aplaude ese aire con especial violencia y lealtad ostensiblemente seccional es invariablemente un nativo de Secaucus, N.J. o del distrito entre Murray Hill Lyceum y el río Harlem, esta ciudad. Estaba a punto de poner mi opinión a prueba preguntando a este caballero cuando interrumpiste con tu propia - teoría más amplia, debo confesar.'
+La cascada marrón se deslizó hacia abajo.
 
-Y ahora el joven de cabello oscuro me habló, y se hizo evidente que su mente también se movía a lo largo de sus propios surcos.
+'Veinte dólares,' dijo Madame, levantando la masa con una mano experta.
 
-'Me gustaría ser un bígaro,' dijo él, misteriosamente, 'en la cima de un valle, y cantar too-ralloo-ralloo.'
+'Dámelo rápido,' dijo Della.
 
-Esto era demasiado oscuro, así que volví a dirigirme a Coglan.
+Oh, y las siguientes dos horas pasaron con alas rosadas. Olvida la metáfora trillada. Estaba buscando en las tiendas el regalo de Jim.
 
-'He estado alrededor del mundo doce veces,' dijo él. 'Conozco a un esquimal en Upernavik que envía a Cincinnati por sus corbatas, y vi a un pastor de cabras en Uruguay que ganó un premio en una competencia de rompecabezas de alimentos para el desayuno de Battle Creek. Pago alquiler de una habitación en El Cairo, Egipto, y otra en Yokohama todo el año. Tengo pantuflas esperándome en una casa de té en Shanghái, y no tengo que decirles cómo cocinar mis huevos en Río de Janeiro o Seattle. Es un mundo muy pequeño. ¿De qué sirve alardear de ser del Norte, o del Sur, o de la vieja casa solariega en el valle, o de Euclid Avenue, Cleveland, o de Pike's Peak, o del condado de Fairfax, Va., o de Hooligan's Flats o de cualquier lugar? Será un mundo mejor cuando dejemos de ser tontos por alguna ciudad mohosa o diez acres de pantano solo porque nacimos allí.'
+Finalmente lo encontró. Seguramente había sido hecho para Jim y para nadie más. No había otro igual en ninguna de las tiendas, y las había revisado todas. Era una cadena de reloj de platino, simple y sobria en diseño, proclamando adecuadamente su valor solo por la sustancia y no por la ornamentación meretriciosa, como deben hacer todas las cosas buenas. Incluso era digna del Reloj. Tan pronto como la vio, supo que debía ser de Jim. Era como él. Tranquilidad y valor: la descripción se aplicaba a ambos. Le quitaron veintiún dólares por ella, y se apresuró a casa con los 87 centavos.
 
-'Pareces ser un verdadero cosmopolita,' dije admirado. 'Pero también parece que despreciarías el patriotismo.'
+Con esa cadena en su reloj, Jim podría estar adecuadamente ansioso por la hora en cualquier compañía. Tan grandioso como era el reloj, a veces lo miraba a escondidas debido a la vieja correa de cuero que usaba en lugar de una cadena.
 
-'Un vestigio de la Edad de Piedra,' declaró Coglan calurosamente. 'Todos somos hermanos - chinos, ingleses, zulúes, patagones y la gente en la curva del río Kaw. Algún día todo este orgullo mezquino en la ciudad o sección del estado o país de uno será borrado, y todos seremos ciudadanos del mundo, como deberíamos ser.'
+Cuando Della llegó a casa, su embriaguez dio paso un poco a la prudencia y la razón. Sacó sus rizadores, encendió el gas y se puso a trabajar reparando los estragos causados por la generosidad añadida al amor. Lo cual siempre es una tarea tremenda, queridos amigos, una tarea gigantesca.
 
-'Pero mientras andas por tierras extranjeras,' persistí, '¿no vuelven tus pensamientos a algún lugar - algún querido y - '
+En cuarenta minutos su cabeza estaba cubierta de pequeños rizos pegados que la hacían parecer maravillosamente a un escolar fugitivo. Se miró en el espejo largo, cuidadosamente y críticamente.
 
-'Ningún lugar,' interrumpió E. R. Coglan con ligereza. 'El trozo de materia terrestre, globular, planetario, ligeramente achatado en los polos, y conocido como la Tierra, es mi morada. He conocido a muchos ciudadanos atados a objetos de este país en el extranjero. He visto a hombres de Chicago sentarse en una góndola en Venecia en una noche de luna y alardear de su canal de drenaje. He visto a un sureño al ser presentado al Rey de Inglaterra darle a ese monarca, sin pestañear, la información de que su tía abuela por el lado de su madre estaba relacionada por matrimonio con los Perkinses, de Charleston. Conocí a un neoyorquino que fue secuestrado para pedir rescate por algunos bandidos afganos. Su gente envió el dinero y él regresó a Kabul con el agente. "¿Afganistán?" dijeron los nativos a través de un intérprete. "Bueno, no tan lento, ¿no crees?" "Oh, no sé," dice él, y comienza a contarles sobre un conductor de taxi en la Sexta Avenida y Broadway. Esas ideas no me convienen. No estoy atado a nada que no tenga 8,000 millas de diámetro. Solo ponme como E. Rushmore Coglan, un ciudadano de la esfera terrestre.'
+'Si Jim no me mata,' se dijo a sí misma, 'antes de mirarme por segunda vez, dirá que parezco una corista de Coney Island. Pero, ¿qué podía hacer? ¡Oh! ¿Qué podía hacer con un dólar y ochenta y siete centavos?'
 
-Mi cosmopolita hizo una gran despedida y me dejó, porque pensó que vio a alguien a través del parloteo y el humo a quien conocía. Así que me quedé con el aspirante a bígaro, que fue reducido a Würzburger sin más capacidad para expresar sus aspiraciones de posarse, melodioso, en la cima de un valle.
+A las siete en punto el café estaba hecho y la sartén estaba en la parte trasera de la estufa, caliente y lista para cocinar las chuletas.
 
-Me senté reflexionando sobre mi evidente cosmopolita y preguntándome cómo el poeta había logrado pasarlo por alto. Era mi descubrimiento y creía en él. ¿Cómo fue? 'Los hombres que se crían de ellos trafican arriba y abajo pero se aferran al dobladillo de sus ciudades como un niño al vestido de su madre.'
+Jim nunca llegaba tarde. Della dobló la cadena del reloj en su mano y se sentó en la esquina de la mesa cerca de la puerta por la que siempre entraba. Luego escuchó su paso en las escaleras, muy abajo en el primer tramo, y se puso pálida por un momento. Tenía la costumbre de decir pequeñas oraciones silenciosas sobre las cosas más simples de cada día, y ahora susurró: 'Por favor, Dios, haz que piense que todavía soy bonita.'
 
-No así E. Rushmore Coglan. Con el mundo entero para su -
+La puerta se abrió y Jim entró y la cerró. Parecía delgado y muy serio. Pobre chico, solo tenía veintidós años, ¡y estar cargado con una familia! Necesitaba un abrigo nuevo y estaba sin guantes.
 
-Mis meditaciones fueron interrumpidas por un tremendo ruido y conflicto en otra parte del café. Vi por encima de las cabezas de los clientes sentados a E. Rushmore Coglan y a un extraño para mí involucrados en una batalla terrible. Lucharon entre las mesas como titanes, y los vasos se rompieron, y los hombres recogieron sus sombreros y fueron derribados, y una morena gritó, y una rubia comenzó a cantar 'Teasing.'
+Jim entró por la puerta, tan inmóvil como un perro de caza al olor de la codorniz. Sus ojos estaban fijos en Della, y había una expresión en ellos que ella no podía leer, y la aterrorizaba. No era ira, sorpresa, desaprobación, horror, ni ninguno de los sentimientos para los que se había preparado. Simplemente la miraba fijamente con esa expresión peculiar en su rostro.
 
-Mi cosmopolita estaba sosteniendo el orgullo y la reputación de la Tierra cuando los camareros cerraron sobre ambos combatientes con su famosa formación de cuña voladora y los llevaron afuera, todavía resistiendo.
+Della se deslizó de la mesa y fue hacia él.
 
-Llamé a McCarthy, uno de los garçons franceses, y le pregunté la causa del conflicto.
+'Jim, cariño,' gritó, 'no me mires así. Me corté el cabello y lo vendí porque no podría haber pasado la Navidad sin darte un regalo. Volverá a crecer, ¿no te importará, verdad? Tenía que hacerlo. Mi cabello crece rápido. Di "¡Feliz Navidad!" Jim, y seamos felices. No sabes qué bonito, qué hermoso regalo tengo para ti.'
 
-'El hombre con la corbata roja' (ese era mi cosmopolita), dijo él, 'se calentó por cosas dichas sobre las aceras malas y el suministro de agua del lugar de donde viene por el otro tipo.'
+'¿Te cortaste el cabello?' preguntó Jim, laboriosamente, como si aún no hubiera llegado a ese hecho evidente incluso después del mayor esfuerzo mental.
 
-'¿Por qué,' dije, desconcertado, 'ese hombre es un ciudadano del mundo - un cosmopolita. Él - '
+'Lo corté y lo vendí,' dijo Della. '¿No te gusto igual, de todos modos? Soy yo sin mi cabello, ¿no?'
 
-'Originalmente de Mattawamkeag, Maine, dijo,' continuó McCarthy, 'y no soportaría que se hablara mal del lugar.'
+Jim miró alrededor de la habitación con curiosidad.
+
+'Dices que tu cabello se ha ido?' dijo con un aire casi de idiotez.
+
+'No necesitas buscarlo,' dijo Della. 'Está vendido, te digo, vendido y se fue también. Es Nochebuena, chico. Sé bueno conmigo, porque se fue por ti. Tal vez los cabellos de mi cabeza estaban contados,' continuó con una repentina dulzura seria, 'pero nadie podría contar mi amor por ti. ¿Pongo las chuletas, Jim?'
+
+Jim pareció despertar rápidamente de su trance. Envolvió a su Della. Durante diez segundos, consideremos con discreta escrutinio algún objeto intrascendente en la otra dirección. Ocho dólares a la semana o un millón al año, ¿cuál es la diferencia? Un matemático o un ingenioso te daría la respuesta equivocada. Los magos trajeron regalos valiosos, pero eso no estaba entre ellos. Esta oscura afirmación será iluminada más adelante.
+
+Jim sacó un paquete de su bolsillo del abrigo y lo arrojó sobre la mesa.
+
+'No te equivoques, Dell,' dijo, 'acerca de mí. No creo que haya nada en el camino de un corte de cabello, un afeitado o un champú que pueda hacer que me guste menos mi chica. Pero si desenvuelves ese paquete, puedes ver por qué me tenías un poco desconcertado al principio.'
+
+Dedos blancos y ágiles rasgaron la cuerda y el papel. Y luego un grito extático de alegría; y luego, ¡ay! Un rápido cambio femenino a lágrimas histéricas y lamentos, que requerían el empleo inmediato de todos los poderes reconfortantes del señor del apartamento.
+
+Porque allí estaban Los Peines, el juego de peines, lateral y trasero, que Della había adorado durante mucho tiempo en una ventana de Broadway. Hermosos peines, de concha pura, con bordes de joyas, justo el tono para usar en el hermoso cabello desaparecido. Eran peines caros, lo sabía, y su corazón simplemente los había deseado y anhelado sin la menor esperanza de poseerlos. Y ahora eran suyos, pero los mechones que deberían haber adornado los codiciados adornos se habían ido.
+
+Pero los abrazó contra su pecho, y al fin pudo mirar hacia arriba con ojos empañados y una sonrisa y decir: '¡Mi cabello crece tan rápido, Jim!'
+
+Y luego Della saltó como un pequeño gato chamuscado y gritó: '¡Oh, oh!'
+
+Jim aún no había visto su hermoso regalo. Ella se lo tendió ansiosamente en su palma abierta. El metal precioso y opaco parecía brillar con un reflejo de su espíritu brillante y ardiente.
+
+'¿No es una maravilla, Jim? Busqué por toda la ciudad para encontrarlo. Tendrás que mirar la hora cien veces al día ahora. Dame tu reloj. Quiero ver cómo se ve en él.'
+
+En lugar de obedecer, Jim se dejó caer en el sofá y puso sus manos bajo la parte trasera de su cabeza y sonrió.
+
+'Dell,' dijo él, 'guardemos nuestros regalos de Navidad y mantengámoslos un tiempo. Son demasiado bonitos para usarlos ahora mismo. Vendí el reloj para conseguir el dinero para comprar tus peines. Y ahora supongo que pones las chuletas.'
+
+Los magos, como sabes, eran hombres sabios, hombres maravillosamente sabios, que trajeron regalos al Niño en el pesebre. Inventaron el arte de dar regalos de Navidad. Siendo sabios, sus regalos sin duda eran sabios, posiblemente con el privilegio de intercambio en caso de duplicación. Y aquí te he relatado torpemente la crónica intrascendente de dos niños tontos en un apartamento que imprudentemente sacrificaron el uno para el otro los mayores tesoros de su casa. Pero en una última palabra para los sabios de estos días, que se diga que de todos los que dan regalos, estos dos fueron los más sabios. De todos los que dan y reciben regalos, tales como ellos son los más sabios. En todas partes son los más sabios. Son los magos.
 `;
